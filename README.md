@@ -10,6 +10,8 @@
   <a href="https://linkedin.com/in/18yuv"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
+---
+
 ## About Me
 Full-Stack MERN Developer with 2+ years of hands-on experience building<br>authentication systems, dashboards, and production-ready web applications.<br>Strong in React, Node.js, MongoDB, and REST APIs, with real-world freelance experience.<br>
 
