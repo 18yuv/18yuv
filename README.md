@@ -1,8 +1,7 @@
+<img width="2444" height="662" alt="github-header-banner" src="https://github.com/user-attachments/assets/3dd04cc9-1014-4df6-ba95-7a9ea11eb3e1" />
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Yuvraj+%F0%9F%91%8B;Software+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Passionate+Software+Developer;Learning+and+Growing" alt="Typing SVG" />
 </div>
-
-<h3 align="center">Passionate Software Developer | Building Innovative Solutions</h3>
 
 <p align="center">
   <a href="mailto:fcyuvraj18@gmail.com"><img src="https://img.shields.io/badge/Email-fcyuvraj18%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
