@@ -1,8 +1,3 @@
-<img width="2444" height="662" alt="github-header-banner" src="https://github.com/user-attachments/assets/3dd04cc9-1014-4df6-ba95-7a9ea11eb3e1" />
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Passionate+Software+Developer;Learning+and+Growing" alt="Typing SVG" />
-</div>
-
 <p align="center">
   <a href="mailto:fcyuvraj18@gmail.com"><img src="https://img.shields.io/badge/Email-fcyuvraj18%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/18yuv"><img src="https://img.shields.io/badge/GitHub-18yuv-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -10,23 +5,6 @@
 </p>
 
 ---
-
-## About Me
-Full-Stack MERN Developer with 2+ years of hands-on experience building<br>authentication systems, dashboards, and production-ready web applications.<br>Strong in React, Node.js, MongoDB, and REST APIs, with real-world freelance experience.<br>
-
-```javascript
-const yuvraj = {
-    location: "India",
-    education: "Computer Science",
-    currentFocus: ["Full Stack Development", "Cloud Technologies", "Open Source"],
-    lookingFor: "Full-time Software Development Opportunities",
-    interests: ["Problem Solving", "System Design", "Clean Code"],
-    motto: "Code with passion, deliver with excellence"
-};
-```
-
----
-
 
 # Tech Stack
 
