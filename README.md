@@ -47,13 +47,3 @@
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
 </div>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-### Check out my pinned repositories below for my best work! 👇
-
-</div>
