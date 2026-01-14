@@ -1,7 +1,7 @@
 <p align="center">
   <a href="mailto:fcyuvraj18@gmail.com"><img src="https://img.shields.io/badge/Email-fcyuvraj18%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/18yuv"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://yuvport.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-yuvport-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/18yuv" target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://yuvport.netlify.app" target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/Portfolio-yuvport-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
